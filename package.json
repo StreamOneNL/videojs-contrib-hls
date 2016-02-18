@@ -1,6 +1,6 @@
 {
   "name": "videojs-contrib-hls-s1",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "description": "Play back HLS with video.js, even where it's not natively supported",
   "main": "es5/stub.js",
   "engines": {
